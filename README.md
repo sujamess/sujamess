@@ -69,4 +69,4 @@ sujamess := aboutMe{
 
 ## My personal blog
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sujamess&repo=blog&show_owner=true)](https://github.com/sujamess/number-to-words)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sujamess&repo=blog&show_owner=true)](https://github.com/sujamess/blog)

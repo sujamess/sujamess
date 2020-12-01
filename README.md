@@ -21,8 +21,7 @@
   </code>
   <code>
     <a href="https://www.instagram.com/s6k.j" title="Instagram Profile">
-      <img width="22" src="https://github.com/sujamess/sujamess/blob/master/resources/instagram.svg">
-      Instagram
+      <img width="22" src="https://github.com/sujamess/sujamess/blob/master/resources/instagram.svg">Instagram
     </a>
   </code>
 </h5>
@@ -30,7 +29,7 @@
 ## My stats
 
 ![Sujamess's github stats](https://github-readme-stats.vercel.app/api?username=sujamess&&hide=contribs,issues&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujamess&layout=compact)](https://github.com/sujamess/sujamess)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujamess)](https://github.com/sujamess/sujamess)
 
 ## Open source projects
 

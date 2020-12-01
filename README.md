@@ -29,6 +29,7 @@
 ## My stats
 
 ![Sujamess's github stats](https://github-readme-stats.vercel.app/api?username=sujamess&&hide=contribs,issues&include_all_commits=true&count_private=true)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujamess)](https://github.com/sujamess/sujamess)
 
 ## Open source projects

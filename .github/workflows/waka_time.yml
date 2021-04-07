@@ -16,5 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
+          BRANCH: "master"
           COMMIT_MSG: "Automated Coding Activity Update :rocket:"

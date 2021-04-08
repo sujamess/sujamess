@@ -64,7 +64,7 @@ sujamess := aboutMe{
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujamess)](https://github.com/sujamess/sujamess)
 
 ## WakaTime
-<img src="https://github.com/sujamess/sujamess/blob/main/images/stat.svg" alt="Sujamess WakaTime Activity"/>
+<img src="https://github.com/sujamess/sujamess/blob/master/images/stat.svg" alt="Sujamess WakaTime Activity"/>
 
 ## Open source projects
 

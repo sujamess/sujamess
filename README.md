@@ -28,9 +28,9 @@
 
 <br />
 
-- I'm currently working as a Full-stack Developer at [Ascend Food Co., Ltd.](https://www.nexterdigital.com/). Working on [Q-Chang](https://www.q-chang.com) product! 👨🏻‍💻
+- I'm currently working as a Full-stack Developer at [Nexter Digital Co., Ltd](https://www.nexterdigital.com/). Working on [Q-Chang](https://www.q-chang.com) product! 👨🏻‍💻
 - I'm currently learning the Korean language 🇰🇷
-- I'm currently improving [my personal blog](https://blog.sujamess.vercel.app), [my first open source repository](https://github.com/sujamess/number-to-words), and [the covid-19 website](https://covid19.sujames.com) 🧐
+- I'm currently improving [my personal blog](https://blog.sujamess.vercel.app) and [my first open source repository](https://github.com/sujamess/number-to-words) 🧐
 
 ## About me
 ``` golang

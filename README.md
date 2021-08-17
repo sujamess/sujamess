@@ -42,7 +42,7 @@ sujamess := aboutMe{
     backEnd: []backEndStack{
       {
         language:  []string{"Go"},
-        framworks: []string{"stdlib", "echo"},
+        frameworks: []string{"stdlib", "echo"},
       },
       {
         language:   []string{"Typescript", "Javascript"},

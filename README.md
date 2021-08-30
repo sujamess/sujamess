@@ -29,7 +29,7 @@
 <br />
 
 - I'm currently working as a Full-stack Developer at [Nexter Digital Co., Ltd](https://www.nexterdigital.com/). Working on [Q-Chang](https://www.q-chang.com) product! 👨🏻‍💻
-- I'm currently styding Korean 🇰🇷
+- I'm currently studing Korean 🇰🇷
 - I'm currently improving [my personal blog](https://blog.sujamess.vercel.app) and [my first open source repository](https://github.com/sujamess/number-to-words) 🧐
 
 ## About me

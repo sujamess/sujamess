@@ -68,7 +68,7 @@ sujamess := aboutMe{
 
 ## Open source projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sujamess&repo=number-to-words&show_owner=true)](https://github.com/sujamess/numconword)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sujamess&repo=numconword&show_owner=true)](https://github.com/sujamess/numconword)
 
 ## My personal blog
 

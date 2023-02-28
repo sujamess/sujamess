@@ -8,13 +8,13 @@
     </a>
   </code>
   <code>
-    <a href="https://www.twitter.com/syujamess" title="HackerRank Profile">
+    <a href="https://www.twitter.com/syujamess" title="Twitter Profile">
       <img width="22" src="https://github.com/sujamess/sujamess/blob/main/resources/twitter.svg">
       Twitter
     </a>
   </code>
   <code>
-    <a href="https://www.facebook.com/sujamess" title="Stack Overflow Profile">
+    <a href="https://www.facebook.com/sujamess" title="Facebook Profile">
       <img width="22" src="https://github.com/sujamess/sujamess/blob/main/resources/facebook.svg">
       Facebook
     </a>

@@ -30,7 +30,7 @@
 
 - I'm currently working as a Back-end Developer at [Nexter Digital Co., Ltd](https://www.nexterdigital.com/). Working on [Q-CHANG](https://www.q-chang.com) product! 👨🏻‍💻
 - I'm currently studying Korean 🇰🇷
-- [My personal blog](https://blog.sujamess.vercel.app) 🧐
+- [My personal blog](https://blog.sujames.com) 🧐
 
 ## About me
 ``` golang

@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Surarerk Boonjit!
-I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Q-CHANG](https://www.q-chang.com) and contributing to a Go web framework called [Cheetah](https://github.com/go-cheetah/cheetah).
+I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Q-CHANG](https://www.q-chang.com), contributing to a Go web framework called [Cheetah](https://github.com/go-cheetah/cheetah) and learning Go, and Rust.
 
 ## 🚀 My current project: [Cheetah](https://github.com/go-cheetah/cheetah)
 Cheetah is a lightning-fast, flexible, and powerful web framework that enables developers to build high-performance web applications with ease. Its simple and intuitive design allows developers to focus on their application logic, and its extensibility enables them to build a custom solution to fit their specific needs. If you're looking for a lightweight and performant web framework, Cheetah is your perfect choice!

@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Surarerk Boonjit!
-I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Agoda](https://www.agoda.com), and learning Go, and Rust.
+I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Agoda](https://www.agoda.com), and learning Go, Scala, and Rust.
 
 ## 🔧 Technologies and tools
 I have experience working with a diverse range of technologies and tools and enjoy expanding my skillset by exploring new ones. Some of my current favorite ones include:

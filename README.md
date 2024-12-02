@@ -1,15 +1,10 @@
 # 👋 Hello, I'm Surarerk Boonjit!
-I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Q-CHANG](https://www.q-chang.com), contributing to a Go web framework called [Cheetah](https://github.com/go-cheetah/cheetah) and learning Go, and Rust.
-
-## 🚀 My current project: [Cheetah](https://github.com/go-cheetah/cheetah)
-Cheetah is a lightning-fast, flexible, and powerful web framework that enables developers to build high-performance web applications with ease. Its simple and intuitive design allows developers to focus on their application logic, and its extensibility enables them to build a custom solution to fit their specific needs. If you're looking for a lightweight and performant web framework, Cheetah is your perfect choice!
-
-We welcome contributors of all levels of experience to help make Cheetah even better
+I'm a software engineer with a passion for building cutting-edge software that drives innovation and solves complex problems. Currently, I'm working at [Agoda](https://www.agoda.com), and learning Go, and Rust.
 
 ## 🔧 Technologies and tools
 I have experience working with a diverse range of technologies and tools and enjoy expanding my skillset by exploring new ones. Some of my current favorite ones include:
-- Programming languages: Go, TypeScript, JavaScript, Rust
-- Web frameworks: Cheetah (Go), net/http (Go), Echo (Go), Fiber (Go), NestJS (Node.js)
+- Programming languages: Go, TypeScript, JavaScript, Rust, Scala
+- Web frameworks: net/http (Go), Echo (Go), Elysia (Bun/Node.js), Axum (Rust), Akka (Scala)
 
 ## 💬 Let's connect
 I'm always looking for new opportunities and collaborations. If you're interested in my work or want to chat about software engineering, let's connect on
